@@ -1,0 +1,1 @@
+For Systems Optimization Analytics (ISE 3230), my partners and I created a wordle solver using Gurobi, CVXPY, and Python. The video and code are linked on David Ricci's youtube channel and github for use.
